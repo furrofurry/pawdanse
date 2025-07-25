@@ -6,7 +6,6 @@
 <h1 align="left">Paw Dance</h1>
 
 
-<p align="left">Hello World!!</p>
 
 ###
 <h3 align="left">a stealth‑grade, post‑quantum SSH VPN</h3>
