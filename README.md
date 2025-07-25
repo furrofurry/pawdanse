@@ -8,7 +8,7 @@
 
 
 ###
-<h3 align="left">a stealth‑grade, post‑quantum SSH VPN</h3>
+<p align="left">a stealth‑grade, post‑quantum SSH VPN</p>
 
 ###
 
