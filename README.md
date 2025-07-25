@@ -17,7 +17,7 @@
 
 ###
 
-<h4 align="left">No fixed packet signature</h4>
+<h4 align="left">No fixed packet signature, and censorship resistance</h4>
 
 ###
 
