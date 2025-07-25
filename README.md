@@ -32,8 +32,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://cloud.protogen.engineering/public.php/dav/files/CFCC6qL2JR2jfNY"  />
+<div align="left">
+  <img height="400" src="https://cloud.protogen.engineering/public.php/dav/files/CFCC6qL2JR2jfNY"  />
 </div>
 
 ###
