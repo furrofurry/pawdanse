@@ -42,6 +42,21 @@
 
 ---
 
+
+## Important one‑time step on the server
+
+OpenSSH must be told to allow tunnel devices.  
+Edit the daemon config **manually** and restart the service:
+
+```bash
+sudo nano /etc/ssh/sshd_config          # or vim, your editor of choice
+# ──────────────────────────────────────────────
+PermitTunnel yes                         # add this line (or PermitTunnel point-to-point)
+# ──────────────────────────────────────────────
+
+sudo systemctl restart sshd
+```
+
 ## Installation client and server
 
 ```bash
