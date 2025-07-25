@@ -48,7 +48,7 @@ OpenSSH must be told to allow tunnel devices.
 Edit the daemon config **manually** and restart the service:
 
 ```bash
-sudo vim /etc/ssh/sshd_config          # or vim, your editor of choice
+sudo vim /etc/ssh/sshd_config         
 # ──────────────────────────────────────────────
 PermitTunnel yes                         # add this line (or PermitTunnel point-to-point)
 # ──────────────────────────────────────────────
