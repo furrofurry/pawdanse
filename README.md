@@ -13,6 +13,7 @@
 ###
 
 <p align="left">Pawdance is a tool that uses OpenSSH you already trust into a fully working Layer‑3 VPN.</p>
+<p align="left">Pawdance can also fuction as transparent vpn if needed. Good for prodcution, when acsess to server is required and its network. why use third party vpns if you have ssh?</p>
 
 ###
 
