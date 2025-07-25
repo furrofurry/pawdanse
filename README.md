@@ -48,7 +48,7 @@
 sudo bash install.sh
 ```
 
-The installer simply copies `pawdance.sh` into `/usr/local/bin/`
+The installer simply copies `pawdance` into `/usr/local/bin/`
 ---
 
 ## 1 – Prepare the client
